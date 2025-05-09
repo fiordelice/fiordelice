@@ -8,7 +8,6 @@
 ---
 
 ### 📱 Redes Sociais
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fiordelicee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-fiordelice)
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF5733?style=for-the-badge&logo=Firefox&logoColor=white)](https://fiordelice.github.io/gabriellafiordelice/)
@@ -16,7 +15,6 @@
 ---
 
 ### 💻 Tecnologias
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -32,7 +30,6 @@
 ---
 
 ### ✉️ Contato
-
 📩 **Email:** fiordelicegabriella@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/gabriella-fiordelice
 
