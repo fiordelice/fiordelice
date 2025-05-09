@@ -30,7 +30,11 @@
 ---
 
 ### ✉️ Contato
-**Email:** fiordelicegabriella@gmail.com  
+
+<p align="center">
+  <i>fiordelicegabriella@gmail.com</i>
+</p>
+ 
 ---
 
 ✨ Obrigada por visitar meu perfil!
