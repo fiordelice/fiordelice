@@ -31,9 +31,6 @@
 
 ### ✉️ Contato
 📩 **Email:** fiordelicegabriella@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/gabriella-fiordelice
-
-
 ---
 
 ✨ Obrigada por visitar meu perfil!
