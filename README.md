@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 Tecnologias 
+### 💻 Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -27,19 +27,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub" />
 </div>
+
 
 ---
 
 ### ✉️ Contato
 
 📩 **Email:** fiordelicegabriella@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/gabriella-fiordelice
+💼 **LinkedIn:** https://www.linkedin.com/in/gabriella-fiordelice
 
-i)
 
 ---
 
-✨ _Obrigada por visitar meu perfil!_
+✨ Obrigada por visitar meu perfil!
 
