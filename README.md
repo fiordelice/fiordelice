@@ -5,18 +5,13 @@
   Técnica em Análise e Desenvolvimento de Sistemas (SENAI-SP)</i>
 </p>
 
-<p align="center">
-  Apaixonada por tecnologia, desenvolvimento web e criação de experiências interativas! 🚀<br/>
-  Estou sempre buscando aprender novas linguagens, frameworks e boas práticas.
-</p>
-
 ---
 
 ### 📱 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fiordelicee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5733?style=for-the-badge&logo=Firefox&logoColor=white)](https://seuportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-fiordelice)
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF5733?style=for-the-badge&logo=Firefox&logoColor=white)](https://fiordelice.github.io/gabriellafiordelice/)
 
 ---
 
@@ -32,16 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" height="40" alt="GitHub" />
 </div>
-
----
-
-### 🛠️ Alguns Projetos
-
-- 🎨 **Portfólio Pessoal** – [Veja online](https://seuportfolio.vercel.app)
-- 💬 **ChatBot em JavaScript** – Integração simples com IA
-- 📅 **To-Do List com React** – Lista de tarefas com armazenamento local
 
 ---
 
@@ -56,10 +43,10 @@
 
 ### ✉️ Contato
 
-Se quiser trocar uma ideia ou fazer uma parceria, me chama:
+📩 **Email:** fiordelicegabriella@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/gabriella-fiordelice
 
-📩 **Email:** gabriella.fiordelice@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/seu-usuario-aqui)
+i)
 
 ---
 
